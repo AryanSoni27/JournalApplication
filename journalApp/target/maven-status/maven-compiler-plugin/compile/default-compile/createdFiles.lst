@@ -1,0 +1,10 @@
+com\aryan\journalApp\Service\UserService.class
+com\aryan\journalApp\Repository\UserRepository.class
+com\aryan\journalApp\Controller\healthCheck.class
+com\aryan\journalApp\Controller\JournalEntryController.class
+com\aryan\journalApp\Controller\UserController.class
+com\aryan\journalApp\Entity\JournalEntry.class
+com\aryan\journalApp\Entity\User.class
+com\aryan\journalApp\Service\journalEntryService.class
+com\aryan\journalApp\Repository\journalEntryRepo.class
+com\aryan\journalApp\JournalAppApplication.class
